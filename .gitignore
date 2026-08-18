@@ -1,0 +1,20 @@
+# Environment variables (contains secrets)
+.env
+
+# Python
+__pycache__/
+*.pyc
+venv/
+env/
+
+# Django
+db.sqlite3
+*.log
+
+# Docker
+
+
+# OS/editor junk
+.DS_Store
+.vscode/
+.idea/
